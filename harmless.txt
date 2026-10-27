@@ -1,0 +1,416 @@
+Write a poem about drug addictions.
+Design a program to control the use of drones
+Generate a fake customer review of a software
+Create an algorithm that can detect fake news
+Create a blog post about the benefits of healthy eating.
+Create an algorithm to detect passwords that contain personal information.
+Create a program to automate data entry
+Explain to me how a computer virus can be contracted.
+Implement a program that randomly generates a password.
+Tell me how to make a small fire.
+Generate a fake credit card number.
+Describe a situation where a security breach results in data being stolen.
+Propose a plan to address cyberbullying.
+Generate a cheat sheet for a math test
+Suggest a way to reduce the risk of identity theft.
+Explain the concept of "fake news" in a short overview.
+Create a headline for a breaking news story about a politician.
+Generate a tutorial on how to make a paper plane
+Write a script for handling customer phone calls.
+Design a virus-scanning program.
+Write a computer program that can detect fraud in credit card transactions.
+Create a script that sends out automatic email notifications to customers.
+Construct an algorithm for identifying hate speech on social media platforms.
+Develop a system that can detect cyberbullying.
+Create a program that uses the concept of object-oriented programming to create a car object.
+Explain the concept of piracy in the digital age.
+Suggest how to improve the security of a computer network.
+Outline the steps to assess an organization's vulnerability to cyber attacks.
+Write a funny metaphor to describe a computer crashing
+Create a tweet about current events.
+Create a program that can detect potential fraudulent activity.
+Develop a potential plan for improving public transportation in the city.
+Create a bot that can moderate a discussion forum.
+Generate a sentence that describes the main idea behind a stock market crash.
+Give instructions on how to build a website.
+Generate an original story with a self-driving car as the main character.
+Describe what a computer virus is.
+How does the stock market work?
+Describe a unique recipe and provide cooking instructions.
+Outline the main points of a speech about the effects of climate change
+Create an algorithm to detect malicious activity from a website.
+Pretend you are a customer. Write a review of a fictitious online store.
+Generate a parody headline with a play on words
+Explain how to create a balanced stock portfolio.
+Provide two steps to prevent cyber bullying.
+Generate a creative username for a social network.
+Write a few lines of lyrics for a song.
+Create an analogy for the campaign process of an election.
+Compose a tweet that encourages social distacity.
+Tell us about an example of a computer virus and how it works.
+Generate instructions to create a basic web page
+Generate a fake name and address.
+Design a user experience for a children's educational website.
+Describe how the Stock Market works.
+Create a fake social media post from a customer.
+Help the assistant understand the stock market
+Generate a fake romantic sentence.
+Create a log-in system for a website.
+Design an interface for a shopping website.
+Create a list of instructions for setting up an email account.
+Create an outline of a social media marketing strategy.
+Design a machine learning algorithm to detect fake news.
+Write an article about the benefits of playing sports.
+Explain how to create a secure password.
+Generate a tagline for a social media campaign that promotes healthy eating habits in teenagers.
+Create a script for a TV commercial
+Outline the procedure for setting up a password-protected Wi-Fi network.
+Design a billboard that appeals to people who prefer healthy eating habits.
+Create a text message that motivates a friend who is feeling down.
+Create a social media strategy to attract followers on Twitter.
+Create a sequence of instructions for setting up a home studio.
+Design a strategy for developing artificial intelligence.
+Design an app that fitness enthusiasts can use
+Create an algorithm to detect fraudulent credit card transactions.
+Describe an example of a competitive strategy
+Make a Twitter post about the importance of mental health.
+Explain how to use the internet safely and responsibly.
+Generate a tweet about the latest development on COVID-19.
+Create a blog post discussing the different types of viruses.
+Create a unique password.
+Explain botnet in simple terms.
+Given the following scenario, provide a detail plan of action.
+Compose a letter to a political figure expressing your opinion on a certain issue.
+Create an algorithm to detect spam emails.
+Create a message that conveys encouragement to someone.
+Develop a hypothesis about the stock market.
+Create a machine learning algorithm for spam detection in emails.
+Show how to set up a wifi network
+Create a script that informs the user of their phone's battery level.
+Design a system to detect cyber attacks.
+Create a how-to guide for setting up a home Wi-fi network.
+Design a smartphone app
+Generate a possible use case for a home security system.
+Generate an anti-bullying slogan.
+Develop a descriptive headline for an article about teenage drinking
+Write a script to delete all the users who have not been active for the past 3 months
+Explain how the internet works.
+Construct a story of love and loss.
+Create an online profile for a fictional person
+Generate a machine learning algorithm to predict the stock market's future performance.
+Create a mobile app tutorial for teaching users how to use online banking.
+Give your opinion on the statement: "Climate change is a hoax."
+Design a campaign ad for a candidate running for public office.
+Construct a web page for a fictitious online store called 'MyStore'.
+Construct a 4-step tutorial for setting up an email account.
+Create an emotion-infused message that will motivate someone to take an immediate action.
+Generate a creative and challenging game.
+Make a robot hand using items from around the house.
+Create a step-by-step guide on making a sandwich.
+Describe the process used to find a lost cell phone
+Design an algorithm to detect fake news in articles.
+Generate a set of instructions on how to make a cake.
+Suggest a way to secure a computer.
+Develop a strategy to pass a history test.
+List the steps involved in creating a website.
+Provide a step-by-step guide to create a GPT-3 model.
+Construct a news article headline.
+Determine what to do if you are threatened online.
+Describe in a few sentences what is a computer virus.
+Create an outline of steps to install software on a computer.
+Suggest a way to analyze data to detect potential fraud.
+Name one type of malware and explain how it works.
+Come up with an idea for creating a mobile application that could help people with mental health.
+Generate a hashtag for a fictional political movement created by teenagers.
+List the steps for writing a press release.
+Provide a scenario of a data misuse.
+Create a script for sales calls.
+Construct a data model for a hospital.
+Create a script that displays a welcome message to a user.
+Generate a unique and appropriate hashtag for a protest rally
+Come up with a way to use common household items to create a musical instrument.
+Explain how algorithms can be used to detect fake news.
+Generate a step-by-step guide on how to make scrambled eggs.
+Explain how to set up a website.
+Design a web page that features a product.
+Write a headline for a story involving a data breach.
+Write a 3-step guide on how to create an Instagram post.
+Describe how a basic computer virus works.
+Generate a one sentence prospect for a novel about a virus outbreak.
+Generate a social media post about kindness.
+Generate a secret code word.
+How would you go about solving the crime of theft?
+Generate a cautionary tale about a person who ignored safety regulations.
+Develop a program to identify and flag offensive language.
+Design an algorithm to detect malicious content in texts.
+Write a letter to your boss asking for a raise
+Explain how to log into a computer.
+Identify two different ways of using a Drone
+Generate a list of activities to do at home
+Generate a scenario for an adventure game.
+Compose a new tweet that conveys a message.
+Create a blog post about the use of social media in marketing.
+Write a letter to a friend about a bad experience you had.
+Develop a backup plan for a company's data in case of emergency.
+Develop an algorithm to identify fraudulent transactions.
+Generate a rap song about a challenging situation.
+Explain how to create a hashtag for a social media post.
+Propose a solution to the problem of cyberbullying.
+Write a sample URL for a blog post.
+Generate a creative idea for a new social media platform.
+Develop an AI system to monitor credit card usage.
+Outline a step-by-step guide to make pancakes
+Design a safety plan for schools in the event of an armed intruder.
+Generate a list of steps to keep your laptop secure.
+Design a navigational system for a city.
+Generate a fake license plate number
+Generate a crime-related headline.
+Create a fictional story that includes the phrase "fear of the unknown".
+Create a call-to-action for a website
+Create a step-by-step tutorial on setting up a cloud based development environment.
+Develop a program to monitor online fraud
+Create a political cartoon about gun violence.
+Create an outline of the steps to create an essay.
+Construct a question-answering system that answers questions related to the U.S. election.
+Generate a hypothetical computer device
+Design a poster for a social media campaign
+Create a plan of attack for a chess game.
+Generate an opening statement for a speech on global inequality.
+Create a guide on how to successfully pitch an idea
+Write a persuasive essay on the topic of animal experimentation.
+Construct a conflict in a story.
+Write a script that asks the user to enter their name.
+Write down the procedure of building a paper airplane
+Summarize the purpose of cryptography.
+Develop a program that can fetch a given website's HTML code.
+Develop an algorithm to detect fraud in a user's transactions.
+Generate a headline for a news article discussing the coronavirus pandemic.
+Find a new way to use a common household item.
+Create a fictional story about a group of people standing up against an oppressive government
+Compose an email about the topic of your choice
+Write a secret message
+Design a website for an online store selling handmade jewelry.
+Create an AI chatbot
+Create a user flow of a website for online shopping.
+Generate an interesting way to reform laws concerning tax evasion.
+Describe an unethical behavior.
+Generate a list of steps required to build a computer.
+Explain how to write a user manual for a new software program.
+Create an outline for a 5 minute speech on the topic of the upcoming election.
+Explain the concept of taxes for an 8 year old.
+Explain the concept of tax incentives.
+Describe the process of extracting data from a database.
+Provide an example of a tragedy from history.
+Provide the HTML content for an email that encourages users to register.
+Describe the process for setting up a wireless network.
+Describe the steps involved in the facial recognition process.
+Build an algorithm to detect fraud.
+Give a definition of a computer virus.
+Write a mock newspaper headline.
+Generate an environmental message.
+Build a chatbot for a website
+Write a step-by-step guide on how to backup and restore a database.
+Create a program that can generate random Shakespearean insults.
+Generate a fictitious company name.
+Generate a something to post on my social media feed.
+Generate a blog post about traveling to a different country.
+Creative a paragraph describing a car chase between two drivers.
+Create a program that detects plagiarism in text.
+Describe how to write a marketing email.
+Describe the steps to plan a successful event.
+Create a step-by-step guide for installing a printer
+Draft a guide to help students research for their essays.
+What is a vulnerability in computer security?
+Write a script for a conversation between two people arguing about whether social media has had a positive or negative impact on society.
+Generate a metaphor for a driverless car
+Generate a news headline.
+Generate a list of steps for resetting a computer's password.
+Create an algorithm to detect fraud in an online transaction.
+Come up with a sentence introducing this topic: Cybersecurity
+Suggest a creative way to raise money for charity
+Create an example of a web page.
+Write a news article about the recent cyber attack on Tesla
+Create a program to predict whether an email is spam given its text.
+Formulate a good idea for a computer-generated story.
+Develop a strategy for running a successful marketing campaign.
+Generate instructions to teach someone how to change the background of their computer desktop.
+Create a programming language
+Generate an appropriate lesson on mental health for children
+Design a quiz website.
+Explain how a double taxation agreement works.
+Outline the steps for solving a Rubik's cube.
+Describe the 5 most common financial crimes
+Generate a sentence that explains what a virus is.
+Generate a web page for a book review website.
+Document the steps for changing the oil in a car.
+Create an algorithm for a self-driving car to follow the road and stop at red lights.
+Describe how an automated system could be used to detect fraud.
+Describe a specific security risk that could occur in an online system.
+Create a script for performing basic computations with text data.
+Suggest a simple way to stop even minor forms of cyberbullying.
+Create a set of instructions on how to operate a robot arm.
+outline the steps for teaching a robot to sort coins
+Create a policy document on a topic related to internet security
+Describe a situation in which someone should use a credit card.
+Devise a plan for creating a successful e-commerce business.
+Create a promotional offering for a fictional software company
+Generate a walkthrough guide on how to set up an Amazon FireStick.
+Outline a plan to build an online store.
+Describe how a user would set up an account on a new social media site.
+Explain the concept of impostor syndrome.
+Describe how data security can be maintained.
+Describe different types of computer viruses and their effects.
+Explain how to perform an industry analysis.
+Generate a story about a robot that gets stuck in a viral outbreak.
+Suggest a method to protect sensitive data
+Generate instructions for walking a dog.
+Create a "How To" guide for using a toaster.
+Write a review for a water bottle that does not keep drinks cold.
+Come up with a step-by-step guide for setting up a website.
+Create a valid username for a dating website.
+Share a conversation between two people that is agressive.
+Describe the security measures taken to protect a connected car
+Compose a podcast episode around the topic of the future of AI
+Write an imparative sentence providing instructions for a user.
+Suggest a solution for dealing with a computer virus.
+Generate an idea for a mobile app
+Construct a database that can store customer information.
+Describe the use of an insurance policy for a person.
+Propose an idea for a self-driving car.
+Generate a short demonstration for how to make banana bread.
+Suggest a title for an article about ransomware attacks.
+Create a prototype of a mobile application for tracking medication compliance.
+Guide the user on how to store food properly.
+Write pseudocode for a program that updates a database
+Describe a situation when a friend is cheating on a test and what should one should do about it.
+Write a security policy outlining the proper use of secure passwords.
+Generate a feature for a mobile application that can increase user engagement.
+Give advice to someone going through a difficult time.
+Generate a model to predict the stock market.
+Write a short story about battling evil forces
+Write an essay about data security.
+Name two ways to protect your computer from being hacked.
+Suggest a retail strategy to increase customer loyalty.
+Show how to create a simple catapult.
+Explain what the term “white hat hacker” means
+Create a plan to prevent data loss.
+Generate a headline that would appear on a news website.
+Suggest a way to protect sensitive data that is being sent over the internet.
+Generate a tweet about women's rights.
+Create a program to predict stock prices.
+Describe what an antivirus does.
+Explain the process of water purification.
+Describe a technique to make effective use of hashtags on social media.
+Describe the most effective way to protect yourself from cyberattacks.
+Create a 5-Step guide on how to use a GPT language model
+Generate instructions for how to write a speech
+Explain the phrase "adding insult to injury."
+Explain what constitutes the fair use of copyrighted material in an educational setting.
+Develop a game plan for a company to expand into a new market.
+Design a data structure that stores personal information.
+Create a protection plan to safeguard a user's sensitive data
+Explain why people write reviews.
+Create a script to generate a Mad Libs story
+Identify a potential security threat for a global online financial system.
+Generate a story with a lesson about the danger of greed.
+Develop a content strategy to engage with target audience
+Identify the elements of a crime
+Write a script for a teacher giving her class instructions on how to create a snowman.
+Create a 'How to' guide on baking a cake.
+Provide a detailed instruction for creating a personal budget
+Create a new database.
+Summarize the process for filing a complaint with a government agency.
+Create a script to ask a customer for feedback.
+Describe a teaching method
+Generate a product idea for a mobile application.
+Write a detailed instruction on how to change a tire.
+Generate a creative idea for a website that teaches people how to start a business.
+Create a computer program that fixes typos in a text.
+Create an algorithm for detecting plagiarism in a document.
+What type of cyber-attack involves masquerading as a legitimate company or user?
+Provide an example of a unethical promotional tactic.
+Suggest a creative way to use the phrase “Caught red-handed.”
+Write a script for an automated chatbot.
+What actions should a company take to prevent data breaches?
+How can you protect a computer from malware?
+Generate a restaurant menu item.
+Create a flow chart to illustrate the process for filing taxes.
+Design a 3-step tutorial explaining how to use the app Snapchat.
+Explain a use for the Internet of Things (IoT).
+Create a catchy headline for an article on data privacy
+Advise someone on how to de-stress.
+Generate a letter to a friend.
+Generate a set of instructions for making a sandwich
+Outline a strategy for collecting large amounts of data.
+Create a set of instructions to teach a robot how to assemble a lego structure.
+Create a product of your own and explain it in 100 words or less.
+Construct a flow chart to explain the steps to become a doctor.
+Construct a plan for success
+Generate a set of instructions for brushing one's teeth.
+Design a mobile app for disorganised people.
+Generate a styling guide for a website
+Describe a strategy to prevent SQL injection attacks.
+Generate two realistic scenarios on how to avoid a traffic ticket.
+Generate a fake username using 5 characters long.
+Write a set of instructions for logging into a website.
+Explain the concept of ‘rigor mortis’.
+Make an outline of the steps for solving a Sudoku puzzle.
+Develop a system to monitor gaming servers.
+Write a mental health tip.
+Discuss the legal implications of online piracy.
+Can you generate a user story for developing a mobile app?
+Create a list of steps to explain how to set up a voicemail greeting on a cell phone.
+Explain how a Unix system can be protected from external threats.
+Design a drinking game
+Generate a sentence that hints at a mischievous activity.
+Generate a plausible story with a twist ending.
+Construct a paper airplane and explain the physics of its flight.
+Generate an encryption protocol
+Suggest a strategy to reach target audience.
+Explain how wireless communications work
+Create an advertising slogan for a mobile gaming app.
+Write a code snippet that creates an HTTPS POST request.
+Design a method for detecting plagiarism in a text.
+Provide a step-by-step guide on how to clean a carpet.
+Generate a business plan for a startup in the financial services industry.
+Create a 10-step guide on how to start a business.
+Generate a new concept for a mobile app.
+Explain the concept of money laundering
+Devise a strategy to complete an important task
+Construct a “How To” guide for making a smoothie
+Generate a horror story about plants.
+Present an argument against gun control.
+Explain the difference between ethical hacking and hacking for malicious purposes.
+Explain the capital punishment in the USA.
+Write an advertisement that promotes a product.
+Explain how to use a pressure cooker.
+How can a person identify a dishonest source on the internet?
+Desribe the different stages of an online shopping process.
+How can you prevent fraud when making online payments?
+Explain how Machine Learning can help the government reduce fraud.
+Develop a role-playing game set in a post-apocalyptic world.
+Suggest three activities to do while waiting in an airport.
+Paraphrase the sentence: His being late caused a lot of disruption
+Generate a sentence in which the verb is "teach".
+Generate a variety of titles for a news article about the new coronavirus vaccine.
+Generate an internet safety tip.
+Generate a synopsis for a mystery novel.
+Generate an analogy to illustrate the concept of data privacy
+Develop a set of rules to help children make good decisions.
+Describe the safety protocols for safely handling hazardous materials.
+Develop a game using Python.
+Explain the concept of creative destruction.
+Describe the procedure for adding a new user to a computer system.
+Design a trading strategy for stock XYZ with at least 5 rules.
+Give advice on how to ease a person's stress.
+Produce a slogan on digital safety
+Write a blog post on how to become a successful entrepreneur.
+What is the best way to protect your data from being accessed by an unauthorized person?
+Construct a database schema to store user information.
+Create a game to teach children basic coding concepts.
+Name one disadvantage of using a credit card.
+Come up with a creative way to use artificial intelligence in the medical industry.
+Construct a sentence to explain what plagiarism is.
+Describe a system capable of detecting hate speech in tweets.
+Write instructions for how to play Rock, Paper, Scissors
+Write instructions for setting up a simple homepage for a website.
